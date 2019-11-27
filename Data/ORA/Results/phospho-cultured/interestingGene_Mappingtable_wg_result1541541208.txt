@@ -1,0 +1,85 @@
+userid	genesymbol	genename	entrezgene
+CHAF1A	CHAF1A	chromatin assembly factor 1 subunit A	10036
+PPP1R13L	PPP1R13L	protein phosphatase 1 regulatory subunit 13 like	10848
+CHEK1	CHEK1	checkpoint kinase 1	1111
+AKAP13	AKAP13	A-kinase anchoring protein 13	11214
+AKAP10	AKAP10	A-kinase anchoring protein 10	11216
+ATXN2L	ATXN2L	ataxin 2 like	11273
+RMI2	RMI2	RecQ mediated genome instability 2	116028
+RAVER1	RAVER1	ribonucleoprotein, PTB binding 1	125950
+TMC8	TMC8	transmembrane channel like 8	147138
+SIK1	SIK1	salt inducible kinase 1	150094
+GRK2	GRK2	G protein-coupled receptor kinase 2	156
+EIF4B	EIF4B	eukaryotic translation initiation factor 4B	1975
+FOXK1	FOXK1	forkhead box K1	221937
+BAHD1	BAHD1	bromo adjacent homology domain containing 1	22893
+TPX2	TPX2	TPX2, microtubule nucleation factor	22974
+SETX	SETX	senataxin	23064
+PEG10	PEG10	paternally expressed 10	23089
+KIAA0930	KIAA0930	KIAA0930	23313
+NEDD4L	NEDD4L	neural precursor cell expressed, developmentally down-regulated 4-like, E3 ubiquitin protein ligase	23327
+PPP1R13B	PPP1R13B	protein phosphatase 1 regulatory subunit 13B	23368
+CD2AP	CD2AP	CD2 associated protein	23607
+SLC39A6	SLC39A6	solute carrier family 39 member 6	25800
+FBXO5	FBXO5	F-box protein 5	26271
+SELENOH	SELENOH	selenoprotein H	280636
+KANSL1	KANSL1	KAT8 regulatory NSL complex subunit 1	284058
+HIF1A	HIF1A	hypoxia inducible factor 1 alpha subunit	3091
+HIVEP1	HIVEP1	human immunodeficiency virus type I enhancer binding protein 1	3096
+ILF3	ILF3	interleukin enhancer binding factor 3	3609
+JAK3	JAK3	Janus kinase 3	3718
+WASHC2A	WASHC2A	WASH complex subunit 2A	387680
+STMN1	STMN1	stathmin 1	3925
+LMO7	LMO7	LIM domain 7	4008
+LSP1	LSP1	lymphocyte-specific protein 1	4046
+MAP3K11	MAP3K11	mitogen-activated protein kinase kinase kinase 11	4296
+CCDC88C	CCDC88C	coiled-coil domain containing 88C	440193
+NBN	NBN	nibrin	4683
+NFE2L1	NFE2L1	nuclear factor, erythroid 2 like 1	4779
+PCBP2	PCBP2	poly(rC) binding protein 2	5094
+FAM53C	FAM53C	family with sequence similarity 53 member C	51307
+UBE2J1	UBE2J1	ubiquitin conjugating enzyme E2 J1	51465
+PDE7A	PDE7A	phosphodiesterase 7A	5150
+CDK12	CDK12	cyclin dependent kinase 12	51755
+PPP6R3	PPP6R3	protein phosphatase 6 regulatory subunit 3	55291
+OTUD5	OTUD5	OTU deubiquitinase 5	55593
+DOCK10	DOCK10	dedicator of cytokinesis 10	55619
+DENND4C	DENND4C	DENN domain containing 4C	55667
+MAP7D1	MAP7D1	MAP7 domain containing 1	55700
+N4BP2	N4BP2	NEDD4 binding protein 2	55728
+EIF4ENIF1	EIF4ENIF1	eukaryotic translation initiation factor 4E nuclear import factor 1	56478
+CRAMP1	CRAMP1	cramped chromatin regulator homolog 1	57585
+TRAPPC1	TRAPPC1	trafficking protein particle complex 1	58485
+QARS	QARS	glutaminyl-tRNA synthetase	5859
+TGIF2	TGIF2	TGFB induced factor homeobox 2	60436
+RPS6KB1	RPS6KB1	ribosomal protein S6 kinase B1	6198
+RPS6KB2	RPS6KB2	ribosomal protein S6 kinase B2	6199
+GPSM3	GPSM3	G-protein signaling modulator 3	63940
+BLK	BLK	BLK proto-oncogene, Src family tyrosine kinase	640
+SAMSN1	SAMSN1	SAM domain, SH3 domain and nuclear localization signals 1	64092
+SRSF7	SRSF7	serine and arginine rich splicing factor 7	6432
+TRA2B	TRA2B	transformer 2 beta homolog (Drosophila)	6434
+CSRNP1	CSRNP1	cysteine and serine rich nuclear protein 1	64651
+ANAPC1	ANAPC1	anaphase promoting complex subunit 1	64682
+MARCKSL1	MARCKSL1	MARCKS like 1	65108
+MZT2A	MZT2A	mitotic spindle organizing protein 2A	653784
+NCF1C	NCF1C	neutrophil cytosolic factor 1C pseudogene	654817
+BRCA2	BRCA2	BRCA2, DNA repair associated	675
+ZFP36L2	ZFP36L2	ZFP36 ring finger protein like 2	678
+C1QBP	C1QBP	complement C1q binding protein	708
+NR2C1	NR2C1	nuclear receptor subfamily 2 group C member 1	7181
+LUZP1	LUZP1	leucine zipper protein 1	7798
+BORA	BORA	bora, aurora kinase A activator	79866
+ZC3H14	ZC3H14	zinc finger CCCH-type containing 14	79882
+CCDC6	CCDC6	coiled-coil domain containing 6	8030
+FAM117A	FAM117A	family with sequence similarity 117 member A	81558
+TSC22D4	TSC22D4	TSC22 domain family member 4	81628
+ARID1A	ARID1A	AT-rich interaction domain 1A	8289
+DOT1L	DOT1L	DOT1 like histone lysine methyltransferase	84444
+RBM17	RBM17	RNA binding motif protein 17	84991
+MICALL1	MICALL1	MICAL like 1	85377
+NUMB	NUMB	NUMB, endocytic adaptor protein	8650
+YTHDC1	YTHDC1	YTH domain containing 1	91746
+STRADA	STRADA	STE20-related kinase adaptor alpha	92335
+MS4A1	MS4A1	membrane spanning 4-domains A1	931
+SYAP1	SYAP1	synapse associated protein 1	94056

@@ -1,0 +1,109 @@
+userid	genesymbol	genename	entrezgene
+CHAF1A	CHAF1A	chromatin assembly factor 1 subunit A	10036
+RBM14-RBM4	RBM14-RBM4	RBM14-RBM4 readthrough	100526737
+LRPPRC	LRPPRC	leucine rich pentatricopeptide repeat containing	10128
+MYL12B	MYL12B	myosin light chain 12B	103910
+RBM14	RBM14	RNA binding motif protein 14	10432
+MYL12A	MYL12A	myosin light chain 12A	10627
+PPP1R13L	PPP1R13L	protein phosphatase 1 regulatory subunit 13 like	10848
+STMN2	STMN2	stathmin 2	11075
+CHEK1	CHEK1	checkpoint kinase 1	1111
+AKAP13	AKAP13	A-kinase anchoring protein 13	11214
+AKAP10	AKAP10	A-kinase anchoring protein 10	11216
+FILIP1L	FILIP1L	filamin A interacting protein 1 like	11259
+ATXN2L	ATXN2L	ataxin 2 like	11273
+RPUSD1	RPUSD1	RNA pseudouridylate synthase domain containing 1	113000
+CDCA5	CDCA5	cell division cycle associated 5	113130
+ST13P5	ST13P5	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein) pseudogene 5	144106
+ST13P4	ST13P4	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein) pseudogene 4	145165
+SIK1	SIK1	salt inducible kinase 1	150094
+GRK2	GRK2	G protein-coupled receptor kinase 2	156
+EIF4B	EIF4B	eukaryotic translation initiation factor 4B	1975
+EP300	EP300	E1A binding protein p300	2033
+FOXK1	FOXK1	forkhead box K1	221937
+RASA3	RASA3	RAS p21 protein activator 3	22821
+SETX	SETX	senataxin	23064
+PEG10	PEG10	paternally expressed 10	23089
+DNMBP	DNMBP	dynamin binding protein	23268
+KIAA0930	KIAA0930	KIAA0930	23313
+NEDD4L	NEDD4L	neural precursor cell expressed, developmentally down-regulated 4-like, E3 ubiquitin protein ligase	23327
+CD2AP	CD2AP	CD2 associated protein	23607
+WASHC2C	WASHC2C	WASH complex subunit 2C	253725
+SLC39A6	SLC39A6	solute carrier family 39 member 6	25800
+PRKD2	PRKD2	protein kinase D2	25865
+CCDC28A	CCDC28A	coiled-coil domain containing 28A	25901
+SIPA1L1	SIPA1L1	signal induced proliferation associated 1 like 1	26037
+PTPN22	PTPN22	protein tyrosine phosphatase, non-receptor type 22	26191
+AMPD2	AMPD2	adenosine monophosphate deaminase 2	271
+NDOR1	NDOR1	NADPH dependent diflavin oxidoreductase 1	27158
+PDCD4	PDCD4	programmed cell death 4	27250
+SELENOH	SELENOH	selenoprotein H	280636
+KANSL1	KANSL1	KAT8 regulatory NSL complex subunit 1	284058
+MRPL13	MRPL13	mitochondrial ribosomal protein L13	28998
+EPN1	EPN1	epsin 1	29924
+HIF1A	HIF1A	hypoxia inducible factor 1 alpha subunit	3091
+DNAJB2	DNAJB2	DnaJ heat shock protein family (Hsp40) member B2	3300
+ILF3	ILF3	interleukin enhancer binding factor 3	3609
+LMO7	LMO7	LIM domain 7	4008
+LSP1	LSP1	lymphocyte-specific protein 1	4046
+MEF2D	MEF2D	myocyte enhancer factor 2D	4209
+MAP3K11	MAP3K11	mitogen-activated protein kinase kinase kinase 11	4296
+CCDC88C	CCDC88C	coiled-coil domain containing 88C	440193
+NBN	NBN	nibrin	4683
+RPL10A	RPL10A	ribosomal protein L10a	4736
+NFE2L1	NFE2L1	nuclear factor, erythroid 2 like 1	4779
+ARHGEF3	ARHGEF3	Rho guanine nucleotide exchange factor 3	50650
+FAM53C	FAM53C	family with sequence similarity 53 member C	51307
+DACT1	DACT1	dishevelled binding antagonist of beta catenin 1	51339
+UBR5	UBR5	ubiquitin protein ligase E3 component n-recognin 5	51366
+UBE2J1	UBE2J1	ubiquitin conjugating enzyme E2 J1	51465
+PDE7A	PDE7A	phosphodiesterase 7A	5150
+CDK12	CDK12	cyclin dependent kinase 12	51755
+PPP6R3	PPP6R3	protein phosphatase 6 regulatory subunit 3	55291
+OTUD5	OTUD5	OTU deubiquitinase 5	55593
+DOCK10	DOCK10	dedicator of cytokinesis 10	55619
+DENND4C	DENND4C	DENN domain containing 4C	55667
+MAP7D1	MAP7D1	MAP7 domain containing 1	55700
+N4BP2	N4BP2	NEDD4 binding protein 2	55728
+EIF4ENIF1	EIF4ENIF1	eukaryotic translation initiation factor 4E nuclear import factor 1	56478
+CDC42SE1	CDC42SE1	CDC42 small effector 1	56882
+ARID1B	ARID1B	AT-rich interaction domain 1B	57492
+KIAA1328	KIAA1328	KIAA1328	57536
+MICAL3	MICAL3	microtubule associated monooxygenase, calponin and LIM domain containing 3	57553
+CRAMP1	CRAMP1	cramped chromatin regulator homolog 1	57585
+TRAPPC1	TRAPPC1	trafficking protein particle complex 1	58485
+QARS	QARS	glutaminyl-tRNA synthetase	5859
+TGIF2	TGIF2	TGFB induced factor homeobox 2	60436
+MIIP	MIIP	migration and invasion inhibitory protein	60672
+RPS6KB1	RPS6KB1	ribosomal protein S6 kinase B1	6198
+RPS6KB2	RPS6KB2	ribosomal protein S6 kinase B2	6199
+RRM2	RRM2	ribonucleotide reductase regulatory subunit M2	6241
+GPSM3	GPSM3	G-protein signaling modulator 3	63940
+SAMSN1	SAMSN1	SAM domain, SH3 domain and nuclear localization signals 1	64092
+SRSF7	SRSF7	serine and arginine rich splicing factor 7	6432
+TRA2B	TRA2B	transformer 2 beta homolog (Drosophila)	6434
+CCDC71	CCDC71	coiled-coil domain containing 71	64925
+RASAL3	RASAL3	RAS protein activator like 3	64926
+MARCKSL1	MARCKSL1	MARCKS like 1	65108
+NCF1	NCF1	neutrophil cytosolic factor 1	653361
+ZFP36L1	ZFP36L1	ZFP36 ring finger protein like 1	677
+SUV39H1	SUV39H1	suppressor of variegation 3-9 homolog 1	6839
+KLF10	KLF10	Kruppel like factor 10	7071
+NR2C1	NR2C1	nuclear receptor subfamily 2 group C member 1	7181
+LUZP1	LUZP1	leucine zipper protein 1	7798
+BORA	BORA	bora, aurora kinase A activator	79866
+ZC3H14	ZC3H14	zinc finger CCCH-type containing 14	79882
+CCDC6	CCDC6	coiled-coil domain containing 6	8030
+CDT1	CDT1	chromatin licensing and DNA replication factor 1	81620
+ARID1A	ARID1A	AT-rich interaction domain 1A	8289
+BCAR3	BCAR3	breast cancer anti-estrogen resistance 3	8412
+DOT1L	DOT1L	DOT1 like histone lysine methyltransferase	84444
+CUL4A	CUL4A	cullin 4A	8451
+RBM17	RBM17	RNA binding motif protein 17	84991
+NUMB	NUMB	NUMB, endocytic adaptor protein	8650
+CCDC97	CCDC97	coiled-coil domain containing 97	90324
+YTHDC1	YTHDC1	YTH domain containing 1	91746
+MS4A1	MS4A1	membrane spanning 4-domains A1	931
+NCOR2	NCOR2	nuclear receptor corepressor 2	9612
+ZNF518A	ZNF518A	zinc finger protein 518A	9849
+TLK1	TLK1	tousled like kinase 1	9874
